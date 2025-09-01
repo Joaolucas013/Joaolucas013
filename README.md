@@ -1,5 +1,4 @@
 
-Eu sou o João Lucas! 🚀  
 Atualmente estudando **Sistemas de Informação**.  
 
 ---
