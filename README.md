@@ -12,15 +12,7 @@ Atualmente estudando **Sistemas de Informação**.
 
 
 
----
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaolucas013&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolucas013&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="160" />
-</div>
-
----
 
 ### 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolucassilvacorreia/)
